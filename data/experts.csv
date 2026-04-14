@@ -1,0 +1,9 @@
+name,email,domain,expertise_keywords,bio,availability_notes
+Alice Chen,alice@example.com,Machine Learning,"deep learning;NLP;transformers;PyTorch",Senior ML engineer with 8 years building production NLP pipelines and fine-tuning large language models.,Usually free mornings
+Bob Martinez,bob@example.com,Security,"penetration testing;cloud security;IAM;zero trust",Principal security architect specializing in AWS/GCP hardening and zero-trust network design.,Prefers afternoons
+Carol Wu,carol@example.com,Frontend,"React;TypeScript;accessibility;design systems",Staff frontend engineer who built design systems used by 200+ developers. Passionate about a11y.,Flexible schedule
+Dave Okafor,dave@example.com,DevOps,"Kubernetes;Terraform;CI/CD;observability",Platform engineering lead running large-scale K8s clusters with GitOps workflows.,Mornings before 11am
+Elena Petrov,elena@example.com,Data Engineering,"Spark;Airflow;dbt;data modeling",Data platform architect experienced in building lakehouse architectures and real-time streaming pipelines.,Available Tue-Thu
+Frank Nguyen,frank@example.com,Backend,"Go;distributed systems;gRPC;PostgreSQL",Backend tech lead with deep expertise in high-throughput microservices and database optimization.,Afternoons preferred
+Grace Kim,grace@example.com,AI/ML Ops,"MLflow;model serving;feature stores;LLMOps",MLOps engineer bridging the gap between research and production for ML and LLM workloads.,Open all week
+Henry Adams,henry@example.com,Mobile,"Swift;Kotlin;Flutter;React Native",Mobile engineering manager who has shipped top-10 apps on both iOS and Android.,Morning slots best
